@@ -1,6 +1,8 @@
 分享一些自己覺得很酷的Lib
 =====================
 
+[Medium](https://medium.com/@katelin013/flutter123-%E5%B9%BE%E5%80%8B%E5%BE%88%E9%85%B7%E7%9A%84-library-%E8%AE%93%E4%BD%A0%E7%9A%84-app-%E6%9B%B4%E5%8A%A0%E6%BC%82%E4%BA%AE-5fe2c02b01a3 "link")
+
 Carousel slider
 ---------------
 輪播的 Widget
